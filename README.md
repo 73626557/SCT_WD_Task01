@@ -29,6 +29,4 @@ The application is implemented inside a *Jupyter Notebook* to demonstrate fronte
 3. Run all cells in Jupyter Notebook or JupyterLab.
 4. Interact with the stopwatch directly from the notebook output.
 
----
 
-## 📁 Project Structure
